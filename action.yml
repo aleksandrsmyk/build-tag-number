@@ -1,6 +1,6 @@
 name: 'Build Tag Number'
 description: 'Sequential build numbers for workflow runs based on Git tag'
-author: 'Onyx Mueller'
+author: 'Oleksandr Smyk'
 runs:
   using: 'node20'
   main: 'main.js'
